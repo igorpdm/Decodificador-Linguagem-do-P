@@ -18,11 +18,11 @@ Siga as instruções abaixo para utilizar o programa:
 6. Execute o programa.
 
 O programa solicitará que você insira uma mensagem codificada. Digite a mensagem e pressione Enter.
+
 Exemplo:
-
-Mensagem codificada                                   Mensagem decodificada
-```bashpVpapmpops papo pcpipnpepmpa```                          ```bashVamos ao cinema```
-
+```bash
+pVpapmpops papo pcpipnpepmpa
+```
 O programa decodificará a mensagem e imprimirá o resultado na tela.
 
 ## Funcionamento do programa
