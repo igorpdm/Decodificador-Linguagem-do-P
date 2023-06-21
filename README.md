@@ -24,7 +24,9 @@ Exemplo:
 pVpapmpops papo pcpipnpepmpa
 ```
 O programa decodificará a mensagem e imprimirá o resultado na tela.
-
+```bash
+Vamos ao cinema
+```
 ## Funcionamento do programa
 
 O programa segue os seguintes passos:
