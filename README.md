@@ -4,7 +4,7 @@ Este é um programa que decodifica mensagens codificadas na linguagem do P. O pr
 
 ## Pré-requisitos
 
-Para executar o programa, você precisa ter o ambiente adequado configurado com o simulador do MIPS. Certifique-se de ter o ambiente de desenvolvimento MIPS instalado e configurado corretamente antes de prosseguir.
+Para executar o programa, você precisa ter o simulador [Mars](http://courses.missouristate.edu/kenvollmar/mars/) instalado em seu computador.
 
 ## Como utilizar
 
