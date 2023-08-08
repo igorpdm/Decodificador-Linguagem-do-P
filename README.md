@@ -13,7 +13,7 @@ Siga as instruções abaixo para utilizar o programa:
 1. Abra um editor de texto e crie um novo arquivo.
 2. Copie o código fornecido e cole no arquivo criado.
 3. Salve o arquivo com uma extensão `.asm`, por exemplo, `linguagemdoP.asm`.
-4. Abra o simulador [Mars](http://courses.missouristate.edu/kenvollmar/mars/) no seu ambiente de desenvolvimento.
+4. Abra o simulador [Mars](http://courses.missouristate.edu/kenvollmar/mars/) em seu computador.
 5. Carregue o arquivo `linguagemdoP.asm` no simulador.
 6. Execute o programa.
 
